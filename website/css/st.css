@@ -1,0 +1,25 @@
+body
+{
+	background-color: #ededed;
+	margin: 0;
+}
+h1{
+	margin-top: 0;
+}
+.T{
+	background-color: #ffa41b ;
+	border-color: blue;
+	height: 100px;
+	width: 350px;
+	margin: 10x;
+} 
+.M{
+	background-color: #ff5151;
+	height: 100px;
+	width: 350px;
+}
+.B{
+	background-color: #9818d6;
+	height: 100px;
+	width: 350px;
+}

@@ -1,0 +1,23 @@
+body
+{
+	background-color: #e8f9e9;
+	align-self: center;
+}
+.top{
+	font-style: bold;
+	font-family: "Brush Script MT";
+	text-align: center;
+	font-size: 50px;
+}
+.msg{
+	font-style: bold;
+	font-family: "Brush Script MT";
+	text-align: center;
+	font-size: 50px;
+}
+.name{
+	font-style: bold;
+	font-family: "Brush Script MT";
+	text-align: center;
+	font-size: 50px;
+}

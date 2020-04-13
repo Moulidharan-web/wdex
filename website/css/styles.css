@@ -1,0 +1,30 @@
+body {
+	             background-color: #effffb;
+		     }
+
+		     hr{
+		     	
+		     	border-style: none;
+		     	border-top-style: dotted; 
+		     	border-color: #142850;
+		     	border-width: 5px;
+		     	
+		     	width: 5%;
+		     }
+	img 
+	{
+		height: 250px;
+	}
+h1
+{
+color: #216353;
+}	
+h3
+{
+color: #2163534;
+}
+/*
+.circular{
+border-radius: 50%;
+}
+*/
